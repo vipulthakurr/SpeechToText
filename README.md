@@ -1,3 +1,4 @@
-**Text TO SPEECH** <br/>
+**SPEECH TO TEXT** <br/>
 <br/>
-THE WEBSITE CAN BE TESTED ON [Sudoku Solver](https://vipulthakurr.github.io/SudokuSolver/)!
+THE WEBSITE CAN BE TESTED ON [Speech To Text](https://vipulthakurr.github.io/SpeechToText/)
+)!
